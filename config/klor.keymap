@@ -79,7 +79,7 @@ display-name= "BASE"                                                  ;
  bindings = <
  //╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷╷         ╷         ╷         ╷         ╷         ╷         ╷         ╷
               &kp Q     &kp W     &kp E     &kp P     &kp G                          &kp J     &kp L     &kp U     &kp Y     &kp SEMI
-    &kp CAPS   &kp A     &kp S     &kp D   &hm LSHFT F &kp G                          &kp H   &hm RSHFT N &kp E     &kp I     &kp O     &kp SQT
+    &kp CAPS   &kp A     &kp S     &kp D   &kp F &kp G                          &kp H   &hm RSHFT N &kp E     &kp I     &kp O     &kp SQT
     &kp LSHIFT   &kp Z     &kp X     &kp C     &kp V     &kp B     &trans     &trans    &kp K     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp BSLH
                                   &kp LCTRL &mo LOWER &kp SPACE &kp LALT   &kp LGUI  &kp RET   &mo RAISE &kp BSPC    
                         >;
